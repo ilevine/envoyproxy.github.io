@@ -149,17 +149,17 @@ projects:
    logo: /img/logos/glooconnect.svg
    website: https://connect.solo.io
    github: https://github.com/solo-io/gloo-connect
-   description: Gloo Connect is an open-source Consul-Native Service Mesh powered by Envoy Proxy.
+   description: Gloo Connect is an Advanced open-source Consul-Native Service Mesh powered by Envoy Proxy.
  - name: Istio
    logo: /img/logos/istio.svg
    website: https://istio.io
    github: https://github.com/istio
    description: Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. Istio embeds Envoy https://istio.io/docs/concepts/what-is-istio/overview.html#envoy
- - name: QLoo
-   logo: /img/logos/qloo.svg
-   website: https://qloo.solo.io
-   github: https://github.com/solo-io/qloo
-   description: QLoo is an open-source Codeless GraphQL Engine build on Envoy Proxy.
+ - name: Sqoop
+   logo: /img/logos/sqoop.svg
+   website: https://sqoop.solo.io
+   github: https://github.com/solo-io/sqoop
+   description: Sqoop is an open-source Codeless GraphQL Engine build on Envoy Proxy.
  - name: Rotor
    logo: /img/logos/rotor.svg
    website: https://github.com/turbinelabs/rotor
